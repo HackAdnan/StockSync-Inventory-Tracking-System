@@ -1,6 +1,6 @@
 # 🏷️ StockSync - Inventory Tracking System
 
-A scalable inventory management REST API system designed to support 500+ stores, a central product catalog, store-specific inventory, and historical stock movement tracking.
+A scalable and reliable inventory management REST API system designed to support 500+ stores, a central product catalog, store-specific inventory, and historical stock movement tracking.
 
 ---
 
