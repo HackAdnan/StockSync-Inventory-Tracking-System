@@ -1,4 +1,4 @@
-# 🏷️ StockSync v1 - Inventory Tracking System
+# 🏷️ StockSync - Inventory Tracking System in Java 
 
 A scalable and reliable inventory management REST API system designed to support 500+ stores, a central product catalog, store-specific inventory, and historical stock movement tracking for improved Inventory management.
 
